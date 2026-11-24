@@ -1,0 +1,2 @@
+FLASK_ENV=develomentp
+FLASK_APP=app-calculadora.py
